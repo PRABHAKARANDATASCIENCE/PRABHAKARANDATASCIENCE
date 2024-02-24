@@ -15,8 +15,8 @@ Entry-Level Data Scientist with a solid grasp of statistical principles, program
 
 
 ## 🛠 Skills
-1. Python for data science
-2. Machine Learning
+1. Python for data science (Numpy,Pandas,Matplotlib,Seaborn)
+2. Machine Learning (Regression,Classification,Clustering)
 3. Natural Language Processing
 4. Power BI
 5. Tableau
