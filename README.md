@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I'm a full stack Data Scientist.
+
 
 Entry-Level Data Scientist with a solid grasp of statistical principles, programming languages, and data analysis techniques. Dedicated to leveraging data-driven insights to address business challenges and support decision-making processes. Eager to contribute to a dynamic team environment and continue developing skills in the field of data science.
 
