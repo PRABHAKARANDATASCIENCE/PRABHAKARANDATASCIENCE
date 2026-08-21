@@ -1,35 +1,77 @@
-
 # Hi, I'm Prabhakaran! 👋
 
+## 🚀 About Me 
+## Data Engineer | SQL | PySpark | Azure Databricks | Delta Lake | ETL
 
-## 🚀 About Me
+I'm a Data Engineer focused on building reliable and scalable data pipelines using **SQL, Python, PySpark, Azure Databricks and Delta Lake**.
 
+I currently work with **Oracle, SQL and reporting applications**, and I'm transitioning toward Data Engineering by building hands-on ETL projects using modern data engineering technologies.
 
-Entry-Level Data Scientist with a solid grasp of statistical principles, programming languages, and data analysis techniques. Dedicated to leveraging data-driven insights to address business challenges and support decision-making processes. Eager to contribute to a dynamic team environment and continue developing skills in the field of data science.
+I'm particularly interested in:
 
+* 🔄 ETL / ELT Pipelines
+* ⚡ PySpark
+* ☁️ Azure Databricks
+* 🗄️ Delta Lake
+* 🏗️ Medallion Architecture
+* 📊 SQL & Data Transformation
+* 🔁 Incremental Data Processing
+* 📈 Data Analytics & BI
 
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.datascienceportfol.io/prabhakar)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prabhakaran-n-62576a211)
+## 🛠️ Technical Skills
 
+### Data Engineering
 
+* PySpark
+* Azure Databricks
+* Delta Lake
+* ETL / ELT
+* Medallion Architecture
+* Incremental Data Processing
+* Data Quality & Validation
 
-## 🛠 Skills
-1. Python for data science (Numpy,Pandas,Matplotlib,Seaborn)
-2. Machine Learning (Regression,Classification,Clustering)
-3. Natural Language Processing
-4. Power BI
-5. Tableau
-6. MYSQL
-7. Statistics using Python
-8. EDA
-9. Data Analytics using Excel
-10. Data Visualizations
+### Programming & Databases
 
-## Quick Summary
-👩‍💻 Post Graduate programm in Data Science and Machine Learning
+* SQL
+* Python
+* Oracle
+* MySQL
 
-🧠 BE- ECE Electronics and Communication Engineering
+### Analytics & Visualization
 
-👯‍♀️ I'm looking to collaborate on Data Science Field
+* Power BI
+* Tableau
 
+### Currently Learning
+
+* Microsoft Fabric
+* Advanced Databricks
+* Azure Data Engineering
+
+## 📌 Featured Projects
+
+### 💰 Investment Portfolio ETL Pipeline
+
+End-to-end data engineering pipeline for processing investment portfolio data using PySpark, Azure Databricks and Delta Lake.
+
+**Technologies:** Python, PySpark, SQL, Databricks, Delta Lake
+
+### 🛒 Retail Sales Data Engineering Pipeline
+
+A Medallion Architecture-based ETL pipeline demonstrating Bronze, Silver and Gold data layers, incremental ingestion, transformations and analytical datasets.
+
+**Technologies:** PySpark, Databricks, Delta Lake, SQL
+
+### 🧠 Advanced SQL Analytics
+
+Collection of business-oriented SQL problems covering joins, CTEs, window functions, ranking, date analysis and advanced analytical queries.
+
+**Technologies:** SQL, MySQL
+
+## 🎯 Career Goal
+
+I'm currently looking for opportunities to grow as a **Data Engineer / ETL Developer** and work on real-world data pipelines, cloud data platforms and large-scale data processing.
+
+### 📬 Connect With Me
+* **LinkedIn:** [Prabhakaran N](https://www.linkedin.com/in/prabhakaran-n-62576a211)
+* **Portfolio:** [Data Portfolio](https://www.datascienceportfol.io/prabhakar)
