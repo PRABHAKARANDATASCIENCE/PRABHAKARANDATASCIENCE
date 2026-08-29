@@ -11,7 +11,7 @@ I'm particularly interested in:
 
 * 🔄 ETL / ELT Pipelines
 * ⚡ PySpark
-* ☁️ Azure Databricks
+* ☁️ Databricks
 * 🗄️ Delta Lake
 * 🏗️ Medallion Architecture
 * 📊 SQL & Data Transformation
@@ -23,7 +23,7 @@ I'm particularly interested in:
 ### Data Engineering
 
 * PySpark
-* Azure Databricks
+* Databricks
 * Delta Lake
 * ETL / ELT
 * Medallion Architecture
@@ -55,12 +55,6 @@ I'm particularly interested in:
 End-to-end data engineering pipeline for processing investment portfolio data using PySpark, Azure Databricks and Delta Lake.
 
 **Technologies:** Python, PySpark, SQL, Databricks, Delta Lake
-
-### 🛒 Retail Sales Data Engineering Pipeline
-
-A Medallion Architecture-based ETL pipeline demonstrating Bronze, Silver and Gold data layers, incremental ingestion, transformations and analytical datasets.
-
-**Technologies:** PySpark, Databricks, Delta Lake, SQL
 
 ### 🧠 Advanced SQL Analytics
 
