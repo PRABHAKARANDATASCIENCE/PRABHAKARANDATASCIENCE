@@ -1,9 +1,9 @@
 # Hi, I'm Prabhakaran! 👋
 
 ## 🚀 About Me 
-## Data Engineer | SQL | PySpark | Azure Databricks | Delta Lake | ETL
+## Data Engineer | SQL | PySpark | Databricks | Delta Lake | ETL
 
-I'm a Data Engineer focused on building reliable and scalable data pipelines using **SQL, Python, PySpark, Azure Databricks and Delta Lake**.
+I'm a Data Engineer focused on building reliable and scalable data pipelines using **SQL, Python, PySpark, Databricks and Delta Lake**.
 
 I currently work with **Oracle, SQL and reporting applications**, and I'm transitioning toward Data Engineering by building hands-on ETL projects using modern data engineering technologies.
 
@@ -40,7 +40,6 @@ I'm particularly interested in:
 ### Analytics & Visualization
 
 * Power BI
-* Tableau
 
 ### Currently Learning
 
@@ -52,7 +51,7 @@ I'm particularly interested in:
 
 ### 💰 Investment Portfolio ETL Pipeline
 
-End-to-end data engineering pipeline for processing investment portfolio data using PySpark, Azure Databricks and Delta Lake.
+End-to-end data engineering pipeline for processing investment portfolio data using PySpark, Databricks and Delta Lake.
 
 **Technologies:** Python, PySpark, SQL, Databricks, Delta Lake
 
